@@ -7,6 +7,6 @@ The system incorporates a highly optimized transfer learning and data augmentati
 * **Aggressive Regularization & Augmentation:** Implementing a multi-stage transformation matrix including localized `GaussianBlur`, `ColorJitter`, and structural flips to prevent overfitting on smaller sample fragments while preserving key macro morphological features.
 * **Precision Performance Auditing:** Establishing a tailored binary tracking logic focused strictly on maximizing the Macro F1-Score to counteract class distribution imbalances and maintain evaluation stability across target datasets.
 
-The final execution achieves an exceptional macro F1-Score of 0.9944 and a test accuracy of 99.45% on the test subset, establishing an industrial-grade visual baseline for edge-AI processing in modern sustainable digital agriculture.
+The final execution achieves a macro F1-Score of 0.9944 and a test accuracy of 99.45% on the test subset, establishing an industrial-grade visual baseline for edge-AI processing in modern sustainable digital agriculture.
 
 To see more, extended explanation in the project.
